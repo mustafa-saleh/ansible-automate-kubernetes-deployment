@@ -1,0 +1,1 @@
+nginx_deployment_file: ./K8s-Files/nginx-config.yaml
